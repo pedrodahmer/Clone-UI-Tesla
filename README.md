@@ -4,7 +4,7 @@ Esse projeto se trata de um clone da interface de usuário do stie da Tesla, Inc
 
 Por motivos de direitos autorais, as imagens usadas no site para ilustar os produtos foram substituídas por cores estáticas, assim como o logo da empresa, que foi substituído por uma SVG de placeholder. Screenshots da interface estão disponíceis em:https://imgur.com/a/gbFwc3N
 
-Para fins ilustativos, inseri as imagens originais do site e o logo da empresa (screenshots estão disponíveis em:). Porém, esses arquivos não estão disponiveis no repositório, já que não tenho posse de nenhum deles e todos os créditos são dos autores originais dessas imagens. 
+Para fins ilustativos, inseri as imagens originais do site e o logo da empresa (screenshots estão disponíveis em: https://imgur.com/a/UGsosd0). Porém, esses arquivos não estão disponiveis no repositório, já que não tenho posse de nenhum deles e todos os créditos são dos autores originais dessas imagens. 
 
 # Ferramentas Utilizadas
 

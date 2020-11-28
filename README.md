@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# UI Clone Tesla
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto se trata de um clone da interface de usuário do stie da Tesla, Inc. (https://www.tesla.com/)
 
-## Available Scripts
+Por motivos de direitos autorais, as imagens usadas no site para ilustar os produtos foram substituídas por cores estáticas, assim como o logo da empresa, que foi substituído por uma SVG de placeholder. Screenshots da interface estão disponíceis em:https://imgur.com/a/gbFwc3N
 
-In the project directory, you can run:
+Para fins ilustativos, inseri as imagens originais do site e o logo da empresa (screenshots estão disponíveis em:). Porém, esses arquivos não estão disponiveis no repositório, já que não tenho posse de nenhum deles e todos os créditos são dos autores originais dessas imagens. 
+
+# Ferramentas Utilizadas
+
+Esse projeto foi constuído inteiramente usando:
+
+  - ReactJS e algumas de suas ferramentas
+  - Framer Motion
+  - Typescript
+  
+## Adendos
+
+Para que a aplicação rode corretamente talvez seja nescessário trocar o valor do parâmetro "jsx" de "react-jsx" para "preserve" no arquivo "tsconfig.json"
+
+## Scripts
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Roda o aplicativo em mode de desenvolvimento em (http://localhost:3000)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Mais Informações
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Para mais informações sobre o ReactJS, assim como scripts e outras features, acesse a documentação de React(https://pt-br.reactjs.org/) ou a documentação do Create React App (https://create-react-app.dev/)
